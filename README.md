@@ -63,7 +63,7 @@ Dynamic fields mapped from customer data:
 ##  Admin Dashboard
  
 ### Dashboard View
-![Admin Dashboard](<img width="792" height="612" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/90c0f546-0a02-4b4e-b418-c1c6ac607dd6" />
+![Admin Dashboard](https://github.com/user-attachments/assets/90c0f546-0a02-4b4e-b418-c1c6ac607dd6"
 )
  
 The dashboard provides branch admins with:
