@@ -63,8 +63,7 @@ Dynamic fields mapped from customer data:
 ##  Admin Dashboard
  
 ### Dashboard View
-![Admin Dashboard](https://github.com/user-attachments/assets/90c0f546-0a02-4b4e-b418-c1c6ac607dd6"
-)
+![Admin Dashboard](https://github.com/munasamantarh-ctrl/overdue-rental-automation/blob/main/screenshots/Admin%20Dashboard.png?raw=true)
  
 The dashboard provides branch admins with:
  
